@@ -36,7 +36,7 @@ const patri = {
 - 🔭 Actualmente estoy trabajando en la creación de páginas web, continuo aprendiendo mientras mejoro mi codigo
 - 😀 Me gusta leer y ver series de ciencia ficción
 - ⚡ Dato curioso: Mi primera línea de código fue "¡Hola mundo!" en Java 
-- 💖 Enamorada de JavaScrip
+- 💖 Enamorada de JavaScript
 
 
 
