@@ -33,10 +33,11 @@ const patri = {
  ----
 
 - 🌱 Actualmente sigo aprendiendo HTML, CSS, Javascript, Node y React
-- 🔭 Actualmente estoy trabajando en la creación de páginas web, continuo aprendiendo mientras mejoro mi codigo
+- 🔭 Actualmente estoy trabajando en la creación de páginas web, continúo aprendiendo mientras mejoro mi código
 - 😀 Me gusta leer y ver series de ciencia ficción
 - ⚡ Dato curioso: Mi primera línea de código fue "¡Hola mundo!" en Java 
 - 💖 Enamorada de JavaScript
+- ✔ LinkedIn: https://www.linkedin.com/in/patricia-vendrame-5a2b6219b/
 
 
 
