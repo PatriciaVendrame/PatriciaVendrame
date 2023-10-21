@@ -34,7 +34,7 @@ const patri = {
  ----
 
 - 💻 Actualmente trabajo como Salesforde Developer
-- 🤯 Mis certificaciones Salesforce Platform Developer I - Platform App Builder - Associate 
+- 🤯 Mis certificaciones: Salesforce Platform Developer I - Platform App Builder - Associate 
 - 🌱 Sigo aprendiendo HTML, CSS, Javascript, Node y React junto con Apex, Aura, LWC, SOQL
 - 🔭 Continúo aprendiendo mientras mejoro mi código
 - 😀 Me gusta leer y ver series de ciencia ficción
