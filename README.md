@@ -24,9 +24,9 @@
 ```js
 const patri = {
   nombre: "Patricia Vendrame",
-  localidad: "Pilar, Cordoba, Argentina",
-  de: "Rio Tercero (Argentina)",
-  educacion: ["Analista Universitario en Sistemas de Computacion", "Salesforce Developer", "FullStack MERN"],
+  localidad: "Cordoba, Argentina",
+  educacion: ["Analista Universitario en Sistemas de Computacion"],
+  trabajo: ["Salesforce Developer", "FullStack MERN"],
   relocacion: ["España", "Italia", "Uruguay"]
 }
 ```
