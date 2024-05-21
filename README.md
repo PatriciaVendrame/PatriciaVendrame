@@ -40,7 +40,7 @@ const patri = {
 - 😀 Me gusta leer y ver series de ciencia ficción
 - ⚡ Dato curioso: Mi primera línea de código fue "¡Hola mundo!" en Java 
 - 💖 Enamorada de JavaScript
-- ✔ LinkedIn: https://www.linkedin.com/in/patricia-vendrame-5a2b6219b/
+- ✔ LinkedIn: https://www.linkedin.com/in/patricia-vendrame/
 
 
 
